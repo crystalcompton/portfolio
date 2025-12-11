@@ -1,2 +1,2 @@
 # portfolio
-Personal portfolio website hosted with GitHub Pages
+Personal portfolio website for Crystal Compton, hosted with GitHub Pages.
